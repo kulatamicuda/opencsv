@@ -1,6 +1,6 @@
 # opencsv
 Automatically exported from code.google.com/p/opencsv. It is fully backward compatible with orignal version of OpenCSV 2.3.0.
-This project is fork of OpenCSV project and was created by dsana...@gmail.com. As GitHub is shutting down I (as a user of this forked library) mirrored whole bunch of code here.
+This project is fork of OpenCSV project and was created by dsana...@gmail.com (dsanatin). As GitHub is shutting down I (kulatamicuda as a user of this forked library) mirrored whole bunch of code from dsanatin here.
 
 
 **The purpose of this project is solve the following problems of old version OpenCSV:**
